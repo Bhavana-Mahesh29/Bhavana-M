@@ -59,6 +59,7 @@ Git • GitHub  • Docker (Learning)
 
 * Spring Boot backend for managing patients, doctors, appointments, and prescriptions
 * Tech Stack: Java, Spring Boot, MySQL, MongoDB
+* CapStone project 
 
 🌍 **Urban Hotspot Pollution Project**
 
